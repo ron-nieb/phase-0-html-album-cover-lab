@@ -33,7 +33,7 @@ h1 {
 }
 
 h2 {
-  font-size: 5.1em;
+  font-size: 4.0em;
   line-height: 1em;
   letter-spacing: .03em;
   margin-bottom: 2px;
@@ -68,6 +68,12 @@ span {
   letter-spacing: .35em;
   vertical-align: top;
   padding-top: 10px;
+  position: absolute;
+}
+.span1 {
+  vertical-align: top;
+position: bottom;
+left: 22%;
 }
 
 img {
